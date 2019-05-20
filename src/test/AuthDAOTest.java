@@ -9,7 +9,7 @@ import common.ProductException;
 import dao.AuthDAO;
 
 class AuthDAOTest {
-
+	/* and add some comment here */
 	@Test
 	void test() throws ProductException {
 		UserInfoBean uib =new UserInfoBean();
