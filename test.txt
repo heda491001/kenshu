@@ -2,3 +2,5 @@ test one more time
 
 change on local file
 try git GUI
+
+try pull by git gui
